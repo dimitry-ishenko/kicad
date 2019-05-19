@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSL2572
+D Light-to-Digital Converter
+K ALS Ambient Light Sensing I2C
+F https://ams.com/documents/20143/36005/TSL2572_DS000178_3-00.pdf
+$ENDCMP
+#
+#End Doc Library
